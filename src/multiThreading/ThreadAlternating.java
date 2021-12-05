@@ -1,4 +1,4 @@
-package test;
+package multiThreading;
 
 public class ThreadAlternating {
 	
